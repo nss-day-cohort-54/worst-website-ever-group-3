@@ -1,0 +1,14 @@
+.navBar {
+    display: flex;
+    justify-content: center;
+    
+
+}
+.button {
+   
+    justify-content: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 1px solid #d6c583;
+    width: 85px;
+    margin: 80px;
+}
