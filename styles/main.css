@@ -1,0 +1,15 @@
+@import url("./header.css");
+
+
+.main {
+    display: flex;
+  
+    flex-wrap: wrap;
+    max-width: 100px;
+   }
+
+   .body {
+       background-image: url("https://images.all-free-download.com/images/graphiclarge/denim_fabric_seamless_vector_pattern_588983.jpg");
+       background-color: rgb(38, 89, 230);
+
+   }
