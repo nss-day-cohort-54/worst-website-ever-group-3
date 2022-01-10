@@ -1,0 +1,13 @@
+.descriptions-and-links{
+    display:flex;
+    border:dashed goldenrod;
+    background-color: rgb(38, 38, 194);
+}
+
+.description-header{
+    text-align: center;
+}
+
+.jeans-d-l{
+    display:flex;
+}

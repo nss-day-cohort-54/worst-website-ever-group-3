@@ -2,6 +2,7 @@
 @import url("./header.css");
 @import url("./footer.css");
 @import url("./navBar.css");
+@import url("./jeans.css");
 
 
 .main {
@@ -30,6 +31,7 @@
     height: 200px;
     
     
+    
 }
 
 .two {
@@ -38,6 +40,7 @@
     color: blue;
     font-family: 'Moon Dance', cursive;
     font-size: larger;
+    background-color: black;
 }
 
 .three {
@@ -52,6 +55,7 @@
     color: blue;
     font-family: 'Moon Dance', cursive;
     font-size: larger;
+    background-color: black;
 }
 
 .five {
@@ -66,4 +70,5 @@
     color: blue;
     font-family: 'Moon Dance', cursive;
     font-size: larger;
+    background-color: black;
 }
