@@ -1,5 +1,6 @@
 
 @import url("./header.css");
+@import url("./footer.css");
 
 
 .main {
@@ -65,4 +66,3 @@
     font-family: 'Moon Dance', cursive;
     font-size: larger;
 }
-=======
