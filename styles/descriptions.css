@@ -1,0 +1,9 @@
+.descriptions-and-links{
+    display:flex;
+    border:dashed goldenrod;
+    background-color: rgb(24, 24, 112);
+}
+
+.description-header{
+    justify-content: center;
+}
