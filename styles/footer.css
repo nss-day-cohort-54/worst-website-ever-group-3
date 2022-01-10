@@ -1,0 +1,10 @@
+.footerImage {
+       
+    display: flex;
+    
+   }
+
+   .footerTitle {
+  display: flex;
+  background-color: blue;
+   }

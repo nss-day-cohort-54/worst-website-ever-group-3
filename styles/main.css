@@ -1,0 +1,68 @@
+
+@import url("./header.css");
+@import url("./footer.css");
+
+
+.main {
+    display: flex;
+  
+    flex-wrap: wrap;
+    max-width: 100px;
+   }
+
+   .body {
+       background-image: url("https://images.all-free-download.com/images/graphiclarge/denim_fabric_seamless_vector_pattern_588983.jpg");
+       background-color: rgb(38, 89, 230);
+
+   }
+
+
+.grid-container {
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+    grid-auto-rows: minmax(100px, auto);
+}
+
+.one {
+    width: 200px;
+    height: 200px;
+    
+    
+}
+
+.two {
+    width: 200px;
+    height: 200px;
+    color: blue;
+    font-family: 'Moon Dance', cursive;
+    font-size: larger;
+}
+
+.three {
+    width: 200px;
+    height: 200px;
+    
+}
+
+.four {
+    width: 200px;
+    height: 200px;
+    color: blue;
+    font-family: 'Moon Dance', cursive;
+    font-size: larger;
+}
+
+.five {
+    width: 200px;
+    height: 200px;
+    
+}
+
+.six {
+    width: 200px;
+    height: 200px;
+    color: blue;
+    font-family: 'Moon Dance', cursive;
+    font-size: larger;
+}
