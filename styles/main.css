@@ -4,27 +4,46 @@
     gap: 5px;
     grid-auto-rows: minmax(100px, auto);
 }
+
 .one {
     width: 200px;
     height: 200px;
+    
+    
 }
+
 .two {
     width: 200px;
     height: 200px;
+    color: blue;
+    font-family: 'Moon Dance', cursive;
+    font-size: larger;
 }
+
 .three {
     width: 200px;
     height: 200px;
+    
 }
+
 .four {
     width: 200px;
     height: 200px;
+    color: blue;
+    font-family: 'Moon Dance', cursive;
+    font-size: larger;
 }
+
 .five {
     width: 200px;
     height: 200px;
+    
 }
+
 .six {
     width: 200px;
     height: 200px;
+    color: blue;
+    font-family: 'Moon Dance', cursive;
+    font-size: larger;
 }
