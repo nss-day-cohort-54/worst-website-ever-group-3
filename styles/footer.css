@@ -1,0 +1,14 @@
+.footerImage {
+       
+    display: flex;
+
+    
+    
+   }
+
+   .footerTitle {
+    display: inline-block;
+  background-color: blue;
+  
+  margin-right: 10px;
+   }
