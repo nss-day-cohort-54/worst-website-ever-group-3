@@ -62,3 +62,30 @@
     background-image: url(https://media.istockphoto.com/photos/creepy-green-fog-background-picture-id495613938?k=20&m=495613938&s=170667a&w=0&h=elcjTFH6pJMQf7GCnEk5bRF_3bVoK7lqFoD95cf8Y90=);
     width: fit-content;
 }
+
+.thongjeans {
+  width: 25%;
+  border: 4px solid color red;
+}
+
+.chainjeans {
+  width: 25%;
+  border: 4px solid color red;
+  
+}
+.skulljeans {
+  width: 25%;
+  border: 4px solid color red;
+}
+.spongebobjeans {
+  width: 25%;
+  border: 4px solid color red;
+}
+.minionjeans {
+  width: 25%;
+  border: 4px solid color red;
+}
+.scaryjeans {
+  width: 25%;
+  border: 4px solid color red;
+}
