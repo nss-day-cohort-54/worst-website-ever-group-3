@@ -89,3 +89,13 @@
   width: 25%;
   border: 4px solid color red;
 }
+.blink_me {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
