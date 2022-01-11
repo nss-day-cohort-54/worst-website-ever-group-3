@@ -1,0 +1,20 @@
+.navBar {
+    display: flex;
+    justify-content: center;
+    flex-basis: 20%;
+
+}
+.button {
+    align-items: center;
+    font-size: large;
+   flex-basis: 20%;
+   flex-direction: row;
+   padding: 20px 20px 20px 20px;
+   width: 75px;
+   margin: 80px;
+   list-style-type: none;
+
+    justify-content: space-between
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white 
+}
